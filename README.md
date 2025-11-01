@@ -1,18 +1,18 @@
-# 🏛️ Federal-Litigation-Data-Standards
+# 🏛️ Litigation-Data-Standards
 
 **A transparent commitment to legal rigor and data integrity for civil rights claims.**
 
-This public repository documents the **legal and technical requirements** that govern the evidence collection and analytical models within the private **Rules of Conduct Civil Rights App**. It serves as a commitment to ensuring that data collected is **court-submissible** in federal civil rights litigation.
+This public repository documents the **legal and technical requirements** that govern the evidence collection and analytical models within the private **Rules of Conduct Civil Rights App**. It serves as a commitment to ensuring that data collected is **court-submissible** in litigation.
 
 ---
 
-### 🛡️ Core Focus: Systemic Conspiracy & Federal Claims
+### 🛡️ Core Focus: Systemic Conspiracy Claims & Federal Statutes
 
 Our primary focus is to generate evidence that satisfies the elements of federal civil rights conspiracy claims, specifically under **42 U.S.C. § 1983** (conspiracy under color of law), **§ 1985**, and **§ 1986**.
 
 | Legal Doctrine | Documentation Focus | Purpose in the App |
 | :--- | :--- | :--- |
-| **Evidence Admissibility** | **Chain of Custody Protocol (FRE 901):** Standards for secure, timestamped, and cryptographically verified logging of digital evidence from capture to export. | Establishes the necessary foundation for introducing digital evidence in a federal court. |
+| **Evidence Admissibility** | **Chain of Custody Protocol (FRE 901):** Standards for secure, timestamped, and cryptographically verified logging of digital evidence from capture to export. | Establishes the necessary foundation for introducing digital evidence in a court of law. |
 | **Proving Agreement** | **Circumstantial Evidence Protocol:** Criteria for aggregating disparate data points across multiple cases or victims to demonstrate a **"meeting of the minds"** or patterns of **willful blindness** consistent with conspiracy. | Translates individual misconduct reports into evidence of **systemic failure and collusion**. |
 | **Color of Law Mapping** | **Official Role §1983 Mapping:** Structured data models linking specific official roles (e.g., judicial, law enforcement) to the legal requirement of acting **"under color of state law."** | Ensures the App focuses on misconduct that meets the threshold for federal jurisdiction. |
 
